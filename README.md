@@ -26,6 +26,7 @@ Simple Python App that creates new contacts with properties. Touches on Test Dri
    - OUTPUT: "New Contact Samora Yommie created" - Create new contact by providing required properties
 3. Enter Short Code
    - INPUT: "DC" 
+   - OUTPUT: "Enter the number you want to search for" - Prompts user to enter number to search for
    - OUTPUT: "Samora Yommie .....0712345678" - Displays existing contacts
 4. Enter Short Code
    - INPUT: "FC"
