@@ -21,17 +21,17 @@ Simple Python App that creates new contacts with properties. Touches on Test Dri
    - INPUT: "Samora"
    - OUTPUT: "Hello Samora. what would you like to do?"
 2. Enter Short Code
-   - INPUT: "CC"
+   - INPUT: "cc"
    - INPUT: "first_name", "last_name", "phone-number", "email"
    - OUTPUT: "New Contact Samora Yommie created" - Create new contact by providing required properties
 3. Enter Short Code
-   - INPUT: "DC" 
+   - INPUT: "dc" 
    - OUTPUT: "Enter the number you want to search for" - Prompts user to enter number to search for
    - OUTPUT: "Samora Yommie .....0712345678" - Displays existing contacts
 4. Enter Short Code
-   - INPUT: "FC"
+   - INPUT: "fc"
    - INPUT: "0712345678" - Search by Phone Number
-   - OUTPUT: "Phone number.......o712345678, Email address.......sam@gmail.com" - Returns contact if exists
+   - OUTPUT: "Phone number.......0712345678, Email address....... samora.y@adzumi.co.ke" - Returns contact if exists
 
 ## Development
 
