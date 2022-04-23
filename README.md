@@ -17,6 +17,7 @@ Simple Python App that creates new contacts with properties. Touches on Test Dri
 ## Behaviour Driven Development
 
 1. Displays Intro Message to user
+    - OUTPUT: "Hello Welcome to your contact list. What is your name?"
    - INPUT: "Samora"
    - OUTPUT: "Hello Samora. what would you like to do?"
 2. Enter Short Code
