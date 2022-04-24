@@ -5,6 +5,7 @@ Simple Python App that creates new contacts with properties. Touches on Test Dri
 ## Technologies Used
 
 - Python3.9
+- unittest (Python test framework)
 - PyperClip
 
 ##### Setup Instructions and Installation
